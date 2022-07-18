@@ -1,0 +1,8 @@
+<div class="col-lg-5 mt-5" style="position: relative;">
+				<img class="" style="transform: rotate(25deg); " width="70%" src="images/iphone6.png" alt="iphone-mockup">
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="features" style="background-color: white; position: relative; top: -10rem;">
